@@ -1,1 +1,1 @@
-1. cpu_test.c 控制一个cpu core到达指定占用率
+1. cpu_test.c 控制一个指定cpu core到达指定占用率
